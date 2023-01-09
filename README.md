@@ -28,6 +28,8 @@ Overall, building a Spotify recommendation algorithm was a challenging but rewar
 
 References Used:
 
+https://medium.com/swlh/build-spotify-playlist-using-machine-learning-45352975d2ee
+
 https://medium.com/towards-data-science/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
 
 https://medium.com/geekculture/how-to-find-new-songs-on-spotify-using-machine-learning-d99bd8855a18
