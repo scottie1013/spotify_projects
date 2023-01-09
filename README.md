@@ -26,4 +26,15 @@ Through this process, I was able to gain a deeper understanding of my own listen
 
 Overall, building a Spotify recommendation algorithm was a challenging but rewarding experience. It allowed me to apply the machine learning concepts that I learned in my courses to a real-world problem, and it required me to develop and hone my analytical and problem-solving skills. While there were certainly difficulties along the way, the end result was a recommendation system that I am proud of and that has improved my music listening experience on Spotify.
 
+References Used:
+
+https://medium.com/towards-data-science/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
+
+https://medium.com/geekculture/how-to-find-new-songs-on-spotify-using-machine-learning-d99bd8855a18
+
+https://medium.com/towards-data-science/viz-your-music-with-spotify-api-and-plotly-eaa65f652191
+
+https://medium.com/towards-data-science/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3
+
+
 ![Screen Shot 2022-10-15 at 9 38 34 PM](https://user-images.githubusercontent.com/114832226/196013847-c4d412f9-5588-495c-a0ce-fc2c29ff88d8.png)
